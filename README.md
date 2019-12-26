@@ -1,4 +1,4 @@
-# Paper Slider
+# Paper Swatch Picker Flow
 
 Vaadin 14 Java integration of @vaadin/paper-swatch-picker
 
